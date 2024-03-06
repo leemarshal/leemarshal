@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemarshal&layout=compact)
+
 ![snake gif](https://github.com/leemarshal/leemarshal/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
