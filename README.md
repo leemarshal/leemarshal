@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Gyuwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemarshal)](https://github.com/anuraghazra/github-readme-stats)
-
 ![snake gif](https://github.com/leemarshal/leemarshal/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
